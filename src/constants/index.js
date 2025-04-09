@@ -66,7 +66,7 @@ export const myProjects = [
     desc: 'an immersive 3D portfolio showcasing my expertise in full-stack development with a focus on the MERN stack (MongoDB, Express.js, React, Node.js). ',
     subdesc:
       ' Built with React, Three.js, and Tailwind CSS, the site blends dynamic 3D visuals with seamless interactivity, offering a unique way to explore my projects, skills, and experience.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+    href: 'https://threejs-portfolio-chi-seven.vercel.app/',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {

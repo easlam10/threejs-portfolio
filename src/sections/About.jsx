@@ -41,7 +41,7 @@ const About = () => {
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
                 I specialize in a variety of languages, frameworks, and tools that allow me to build robust and scalable
-                applications
+                applications. These include HTML, CSS, JavaScript, React, Next.js, Three.js, Typescript, Tailwind, MongoDB, Express.js, Node.js.
               </p>
             </div>
           </div>
