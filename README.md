@@ -8,13 +8,11 @@ A stunning 3D interactive portfolio built with React, Three.js, and React Three 
 
 Modern UI – Styled with Tailwind CSS for a clean, responsive design
 
-Dynamic Animations – Powered by React Spring and Framer Motion
-
 Easy Customization – Edit content, colors, and 3D models easily
 
 Optimized Performance – Uses React Three Drei for pre-built 3D components
 
-Dark/Light Mode – Toggleable theme for better UX
+
 
 🛠️ Tech Stack
 Frontend: React (Vite)
@@ -23,6 +21,4 @@ Frontend: React (Vite)
 
 Styling: Tailwind CSS
 
-Animations: Framer Motion, GSAP (optional)
-
-Deployment: Vercel / Netlify
+Deployment: Vercel 
